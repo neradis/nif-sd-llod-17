@@ -36,8 +36,8 @@ __ OracleJava8_
 
 Please also ensure that the directory with the Java executables has been added
 to your :envvar:`$PATH`. To verify that :envvar:`$PATH` is set correctly, enter
-:command:`java -version` into a command line prompt. The output should contain
-:command:`version "1.8.0` as a substring.
+``java -version`` into a command line prompt. The output should contain
+``version "1.8.0`` as a substring.
 
 
 Notes on Command Prompt Usage (only relevant on Windows)
@@ -53,7 +53,7 @@ for all the common BASH commands occurring in this tutorial to their Windows
 counterparts, thus, the commands should be executable in a PowerShell session
 without alterations. If you use the traditional Windows Command Prompt, some
 command names and or options will have to be adjusted by you
-(e.g. :command:`dir` instead of :command:`ls`). Alternatively, Babun_ can be
+(e.g. ``dir`` instead of ``ls``). Alternatively, Babun_ can be
 used.
 
 

@@ -14,3 +14,6 @@ resources and annotations.
    :maxdepth: 2
   
    preparations
+   excercises
+   tools
+   
